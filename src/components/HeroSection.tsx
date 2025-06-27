@@ -35,14 +35,15 @@ const HeroSection = () => {
             Communication
           </h1>
           <h2 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-neon-cyan via-neon-green to-neon-blue bg-clip-text text-transparent animate-gradient-shift bg-300%">
-            Launche
+           Launcher
+
           </h2>
         </div>
         
         <p className="text-xl md:text-2xl text-gray-300 mb-8 leading-relaxed">
           Next-Generation Digital Communication Hub
           <br />
-          <span className="text-neon-cyan">Powered by AI Innovation</span>
+         
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
