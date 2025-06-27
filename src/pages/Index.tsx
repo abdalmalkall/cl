@@ -18,10 +18,10 @@ const Index = () => {
         <footer className="bg-gradient-to-r from-purple-900 to-pink-900 py-8 px-4 text-center">
           <div className="max-w-4xl mx-auto">
             <p className="text-gray-300 mb-2">
-              © 2024 Communication Launche - Next-Gen Digital Hub
+              © 2025 Communication Launche - Next-Gen Digital Hub
             </p>
             <p className="text-neon-cyan text-sm">
-              Powered by AI Innovation & Creative Excellence
+            Designer and programmer Abdulmalk
             </p>
           </div>
         </footer>
