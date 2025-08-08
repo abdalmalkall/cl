@@ -10,21 +10,22 @@ const PortfolioSection = () => {
       title: 'Render Your Plan',
       description: 'Advanced planning and visualization platform with AI-powered features',
       url: 'https://render-your-plan.netlify.app/',
-      tech: ['React', 'AI Integration', 'Responsive Design'],
+      tech: ['React',  'Responsive Design'],
       gradient: 'from-blue-500 to-purple-600'
     },
     {
       title: 'ECL Project',
       description: 'Elegant and modern web application showcasing cutting-edge development',
       url: 'https://e-cl.netlify.app/',
-      tech: ['HTML5', 'CSS3', 'JavaScript', 'Modern UI'],
+      tech: ['React', 'Responsive Design'],
       gradient: 'from-green-500 to-teal-600'
     },
     {
       title: 'friends-supermarket',
-      description: 'Elegant and modern web application showcasing cutting-edge development',
+      description: 'A modern and elegant online supermarket delivering quality and freshness to your door',
       url: 'https://friends-supermarket.netlify.app/',
-      tech: [''],
+      tech: ['' ,'' ,''],
+      
       gradient: 'from-green-500 to-teal-600'
     }
   ];
