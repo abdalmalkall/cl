@@ -16,8 +16,15 @@ const PortfolioSection = () => {
     {
       title: 'ECL Project',
       description: 'Elegant and modern web application showcasing cutting-edge development',
-      url: 'https://abdalmalkall.github.io/Ecl/',
+      url: 'https://e-cl.netlify.app/',
       tech: ['HTML5', 'CSS3', 'JavaScript', 'Modern UI'],
+      gradient: 'from-green-500 to-teal-600'
+    },
+    {
+      title: 'friends-supermarket',
+      description: 'Elegant and modern web application showcasing cutting-edge development',
+      url: 'https://friends-supermarket.netlify.app/',
+      tech: [''],
       gradient: 'from-green-500 to-teal-600'
     }
   ];
