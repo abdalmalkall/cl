@@ -33,8 +33,8 @@ const ContactSection = () => {
     {
       icon: Instagram,
       title: 'Instagram',
-      value: '_of10.7',
-      link: 'https://www.instagram.com/_of10.7/',
+      value: '_cl_hub',
+      link: 'https://www.instagram.com/_cl_hub/',
       color: 'text-pink-400',
       gradient: 'from-purple-500 via-pink-500 to-orange-500'
     }
